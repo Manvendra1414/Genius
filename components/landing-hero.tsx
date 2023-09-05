@@ -20,7 +20,10 @@ export const LandingHero = () => {
                 "Chatbot.",
                 "Photo Generation.",
                 "Blog Writing.",
-                "Mail Writing."
+                "Music Generation",
+                "Mail Writing.",
+                "Video Generation",
+                "Code Generation"
               ],
               autoStart: true,
               loop: true,

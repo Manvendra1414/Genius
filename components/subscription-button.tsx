@@ -7,6 +7,7 @@ import { toast } from "react-hot-toast";
 
 import { Button } from "@/components/ui/button";
 
+
 export const SubscriptionButton = ({
   isPro = false
 }: {
